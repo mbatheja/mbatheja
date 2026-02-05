@@ -1,12 +1,14 @@
-## Hi there 👋
-
+## Hi there, I am Mahima 👋
+👧🏻 I currently working on healthcare data products that make health data more accesible to both patients and physicians. Consequently, you might see my portfolio to be more healthcare oriented.
+🌱 I’m currently learning data engineering using Pyspark and databricks
+⚡What I do have exposure to Python, React.js, SQL, ArcGIS Pro, Apache Kafka and Apache Airflow
 <!--
 **mbatheja/mbatheja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
