@@ -1,8 +1,10 @@
 ## Hi there, I am Mahima 👋
+---
 👧🏻 I am currently working on healthcare data products that make health data more accesible to both patients and healthcare stakeholders. Consequently, you might see my portfolio to be more healthcare oriented. Beyond healthcare I love working on products that enable businesses to uncover what's driving or halting their growth.
-🌱 I’m currently learning data engineering using Pyspark and databricks 
-⚡What I do have exposure to Python, SQL, ArcGIS Pro, Apache Kafka and Apache Airflow
-🔮 Reach out to me for: Machine Learning, Natural Language Processing and Data Science Projects!
+<ul>🌱 I’m currently learning data engineering using Pyspark and databricks </ul>
+<ul>⚡What I do have exposure to Python, SQL, ArcGIS Pro, Apache Kafka and Apache Airflow </ul>
+<ul>🔮 Reach out to me for: Machine Learning, Natural Language Processing, Data Science projects and Frontend prototypes for apps ! </ul>
+<ul> 🧞 Random Fact: My favourite LLM so far is Claude! </ul>
 <!--
 **mbatheja/mbatheja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
