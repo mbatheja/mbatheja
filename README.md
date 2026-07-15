@@ -8,7 +8,6 @@ My toolkit includes: Python, SQL, PySpark, Databricks, Apache Airflow, Dbt, ArcG
 
 Let’s collaborate on: Machine Learning, NLP, healthcare analytics, data platforms, or data-backed product prototypes.
 
-🧞 Fun fact: My favorite LLM so far is Claude.
 <!--
 **mbatheja/mbatheja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
