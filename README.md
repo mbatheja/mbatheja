@@ -4,7 +4,7 @@ I build data-driven healthcare products that make clinical and health data more 
 
 I’m currently deepening my skills in data engineering using PySpark and Databricks, and I enjoy working across the stack—from data pipelines to predictive models and lightweight frontend prototypes.
 
-My toolkit includes: Python, SQL, PySpark, Databricks, Apache Airflow, Apache Kafka, ArcGIS Pro, and ML/NLP workflows.
+My toolkit includes: Python, SQL, PySpark, Databricks, Apache Airflow, Dbt, ArcGIS Pro, Docker, FastAPI and ML/NLP workflows.
 
 Let’s collaborate on: Machine Learning, NLP, healthcare analytics, data platforms, or data-backed product prototypes.
 
